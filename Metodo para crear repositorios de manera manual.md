@@ -33,7 +33,7 @@ C:\>
 ahora tienes que cambiar al _drive_ que acabas de crear:
 
 ```
-T:\> T:
+C:\> T:
 ```
 
 y hacer un nuevo archivo con el siguiente comando:
@@ -54,7 +54,7 @@ Te va a decir que el archivo no existe y que si lo quieres crear, __le dices que
 !/CAT/Runtime
 ```
 
-Con este archivo le estamo
+Con este archivo le estamos diciendo que solamente tiene que poner atencion a el directorio `CAT/Runtime` y todo su contenido. 
 
 ### Apartir de aqui ya empezamos a trabajar con GIT
 
@@ -131,8 +131,8 @@ t: was deleted successfully
 ~~CYBOND63~~
 ~~CYBOND14~~
 ~~CYBOND3~~
-CYBOND56
-CYBOND58
-CYBOND60
+~~CYBOND56~~
+~~CYBOND58~~
+~~CYBOND60~~
 ~~CYBOND76~~
 ~~CYBOND54~~
