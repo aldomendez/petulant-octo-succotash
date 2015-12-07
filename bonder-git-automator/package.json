@@ -1,0 +1,20 @@
+{
+  "name": "bonder-git-helper",
+  "version": "1.0.0",
+  "description": "Menu de ayuda para guardar los respaldos de las maquinas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldo Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "commander": "^2.9.0",
+    "exec-chainable": "0.0.3",
+    "inquirer": "^0.11.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.6"
+  }
+}
